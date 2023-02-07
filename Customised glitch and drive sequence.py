@@ -55,7 +55,7 @@ def main():
     # If required you can enable python logging, quarchpy supports this and your log file
     # will show the process of scanning devices and sending the commands.  Just comment out
     # the line below.  This can be useful to send to quarch if you encounter errors
-    logging.basicConfig(filename='example.log', encoding='utf-8', level=logging.DEBUG)
+    #logging.basicConfig(filename='example.log', encoding='utf-8', level=logging.DEBUG)
     
     print ("\n\nQuarch application note example: AN-001")
     print ("---------------------------------------\n\n")
